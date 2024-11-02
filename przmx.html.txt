@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRZM-X</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #6700e6;
+        }
+        header {
+            background-color: #a052ff;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 20px;
+        }
+        nav a {
+            margin: 10px;
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>PRZM-X Technologies!</h1>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">How to get</a>
+</nav>
+
+<section id="home">
+    <h2>Home</h2>
+    <p>przmx is cool.</p>
+</section>
+
+<section id="about">
+    <h2>About</h2>
+    <p>this is super cool and it has a paid version.</p>
+</section>
+
+<section id="contact">
+    <h2>How to get</h2>
+    <p>you get it.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 PRZM-X Technologies</p>
+</footer>
+
+</body>
+</html>
